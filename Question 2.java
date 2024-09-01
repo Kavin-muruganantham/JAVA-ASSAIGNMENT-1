@@ -1,4 +1,4 @@
-# question 2
+//question 2
 public class WordEncryption {
 
     public static String encryptString(String input1, int input2) {
