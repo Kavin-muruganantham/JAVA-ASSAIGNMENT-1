@@ -1,5 +1,5 @@
-# JAVA-ASSAIGNMENT-1
-# question 1
+//JAVA-ASSAIGNMENT-1
+    //question 1
 public class MaxWaterContainer {
     public static int maxArea(int[] height) {
         int maxArea = 0;
